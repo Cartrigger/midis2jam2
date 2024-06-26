@@ -11,3 +11,6 @@ style:
     active: false
   ReturnCount:
     excludeGuardClauses: true
+
+build:
+  maxIssues: -1
